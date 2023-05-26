@@ -1,4 +1,4 @@
-package golang
+package misc
 
 // MyReader - Custom reader implementation
 type MyReader struct{}
